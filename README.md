@@ -1,0 +1,1 @@
+Hello! I am a beginner in programming. I'm going to put a bunch of stuff here, mainly about my learning process. It could be python, pytorch, deep learning or something else. * Only if I can really insist on writing a lot of things can I organize it
